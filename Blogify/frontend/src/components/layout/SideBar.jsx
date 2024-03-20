@@ -48,18 +48,18 @@ const SideBar = ({ setComponent }) => {
           <p>{user.name}</p>
         </div>
         <ul>
-          <button onClick={() => handleComponent("My Blogs")}>MY BLOGS</button>
+          {/* <button onClick={() => handleComponent("My Blogs")}>MY BLOGS</button> */}
           <button onClick={() => handleComponent("Create Blog")}>
             CREATE BLOG
           </button>
-          <button onClick={() => handleComponent("Analytics")}>
+          {/* <button onClick={() => handleComponent("Analytics")}>
             CHART
-          </button>
-          <button onClick={() => handleComponent("My Profile")}>
+          </button> */}
+          {/* <button onClick={() => handleComponent("My Profile")}>
             MY PROFILE
-          </button>
+          </button> */}
           <button onClick={gotoHome}>HOME</button>
-          <button onClick={handleLogout}>LOGOUT</button>
+          {/* <button onClick={handleLogout}>LOGOUT</button> */}
           {/* <button
             onClick={() =>
               mode === "light" ? setMode("dark") : setMode("light")

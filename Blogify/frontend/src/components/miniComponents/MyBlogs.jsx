@@ -45,18 +45,18 @@ const MyBlogs = () => {
                   <span className="category">{element.category}</span>
                   <h4>{element.title}</h4>
                   <div className="btn-wrapper">
-                    <Link
+                    {/* <Link
                       to={`/blog/update/${element._id}`}
                       className="update-btn"
                     >
                       UPDATE
-                    </Link>
-                    <button
+                    </Link> */}
+                    {/* <button
                       className="delete-btn"
                       onClick={() => deleteBlogHandler(element._id)}
                     >
                       DELETE
-                    </button>
+                    </button> */}
                   </div>
                 </div>
               );
