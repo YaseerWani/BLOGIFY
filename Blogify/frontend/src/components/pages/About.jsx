@@ -14,7 +14,7 @@ const About = () => {
           quis ipsam dolores quos illum maxime, quasi cumque itaque ratione
           exercitationem. Aliquid, autem quasi? Iusto officia, cum minus
           pariatur aspernatur aut corporis quis vero alias ullam! Ab corrupti
-          quae deserunt tenetur corporis esse quisquam error quas? Id quidem
+          quae deserunt tenetur corporis esse quijfjalkfnaf jhkfkasdfdaw squam error quas? Id quidem
           totam, corrupti optio unde numquam harum illo voluptate enim fugiat
           excepturi officiis blanditiis obcaecati consectetur animi mollitia
           autem. Enim labore ipsam dolorem, ipsum ipsa velit. Laboriosam vel
