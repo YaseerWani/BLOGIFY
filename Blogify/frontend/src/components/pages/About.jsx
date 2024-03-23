@@ -11,7 +11,7 @@ const About = () => {
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo aut
           dolor dicta placeat, perferendis fuga eligendi molestias nobis odio
           quo maxime ipsam, exercitationem ipsum. Eius corporis qui repellat
-          quis ipsam dolores quos illum maxime, quasi cumque itaque ratione
+          quis ipsam dolores fafquos illum maxime, quasi cumque itaque ratione
           exercitationem. Aliquid, autem quasi? Iusto officia, cum minus
           pariatur aspernatur aut corporis quis vero alias ullam! Ab corrupti
           quae deserunt tenetur corporis esse quijfjalkfnaf jhkfkasdfdaw squam error quas? Id quidem
