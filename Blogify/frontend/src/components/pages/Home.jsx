@@ -12,9 +12,9 @@ const Home = () => {
     <>
       <article className={mode === "dark" ? "dark-bg" : "light-bg"}>
         <HeroSection />
-        <TrendingBlogs />
+        {/* <TrendingBlogs /> */}
         <LatestBlogs heading={"Latest Blogs"} blogs={filteredBlogs} />
-        <PopularAuthors />
+        {/* <PopularAuthors /> */}
       </article>
     </>
   );
