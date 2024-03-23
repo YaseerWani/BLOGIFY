@@ -15,7 +15,7 @@ const About = () => {
           exercitationem. Aliquid, autem quasi? Iusto officia, cum minus
           pariatur aspernatur aut corporis quis vero alias ullam! Ab corrupti
           quae deserunt tenetur corporis esse quijfjalkfnaf jhkfkasdfdaw squam error quas? Id quidem
-          totam, corrupti optio unde numquam harum illo volupndsbfjkdsfctate enim fugiat
+          totam, corrupti optio unde mnbfadkjgvjafgfvaeknumquam harum illo volupndsbfjkdsfctate enim fugiat
           excepturi officiis blanditiis obcaecati consectetur animi mollitia
           autem. Enim labore ipsam dolorem, ipsum ipsa velit. Laboriosam vel
           unde consequuntur odit veniam itaque placeat accusantium, ipsam odio,
