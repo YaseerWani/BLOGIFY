@@ -14,17 +14,19 @@ const Footer = () => {
         isDashboard.pathname === "/dashboard"
           ? "hideFooter"
           : mode === "light"
-          ? "light-footer"
-          : "dark-footer"
+            ? "light-footer"
+            : "dark-footer"
       }
     >
       <div className="container">
         <div className="about">
           <h3>About</h3>
+
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-            Consectetur possimus sed praesentium! Et sunt, distinctio veniam
-            ullam, nesciunt ex laudantium quidem error sint, eum explicabo.
+
+            <h4> A MERN Stack Blogging Web Application </h4>
+
+            Welcome to our MERN Stack Blogging Web Application! In this project, i have leveraged the power of modern web development technologies to create a robust platform for blogging enthusiasts.
           </p>
           <p>
             <span>Email:</span>iyaseerwani@gmail.com
